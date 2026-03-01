@@ -8,7 +8,9 @@ i'm a developer at ~~aws~~ amazon. here's some stuff i [can] do:
 
 \> Linux System Administration, with experience for Arch Linux, Enterprise Linux, and Debian.
 
-\> Nextcloud/ownCloud [Infinite Scale] Management, including setting up the hardware and software.
+\> Microcontrollers, with experience for the ESP32, RP2040, and RP2350.
+
+\> Nextcloud/ownCloud [Infinite Scale] Management.
 
 \> Programming, with experience in C, C#, Java, JavaScript, and Python.
 
